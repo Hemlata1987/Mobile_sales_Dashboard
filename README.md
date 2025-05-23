@@ -30,6 +30,7 @@ Features/Highlights:
 Screenshot/Demo:
 Show what the dashboard looks like
 https://github.com/Hemlata1987/Mobile_sales_Dashboard/blob/main/Dashboard_project1.pbit
-Example: https://github.com/Hemlata1987/Mobile_sales_Dashboard/blob/main/Screenshot%20Dashboard.PNG
+Example: 
+https://github.com/Hemlata1987/Mobile_sales_Dashboard/blob/main/Dashboard_project1.pbit
 
 
